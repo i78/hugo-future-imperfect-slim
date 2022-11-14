@@ -1,0 +1,14 @@
+/* source-code-pro-regular - latin */
+@font-face {
+    font-family: 'Source Code Pro';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../source-code-pro-v22-latin-regular.eot'); /* IE9 Compat Modes */
+    src: local(''),
+         url('../source-code-pro-v22-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../source-code-pro-v22-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../source-code-pro-v22-latin-regular.woff') format('woff'), /* Modern Browsers */
+         url('../source-code-pro-v22-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../source-code-pro-v22-latin-regular.svg#SourceCodePro') format('svg'); /* Legacy iOS */
+  }
+  
